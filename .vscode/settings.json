@@ -1,0 +1,36 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "files.associations": {
+    "nfc.h": "c",
+    "board.h": "c",
+    "nfc4.h": "c",
+    "spi_specifics.h": "c",
+    "spi_common.h": "c",
+    "gpio.h": "c",
+    "gpio_pins.h": "c",
+    "gpio_hal.h": "c",
+    "spi_master.h": "c",
+    "freertos.h": "c",
+    "hal.h": "c",
+    "drv_digital_in.h": "c",
+    "task.h": "c",
+    "drv_spi_master.h": "c",
+    "regex": "c",
+    "xlocale": "c",
+    "xstring": "c",
+    "random": "c",
+    "gpio_types.h": "c",
+    "complex": "c",
+    "format": "c",
+    "vector": "c",
+    "xutility": "c",
+    "xiosbase": "c",
+    "esp_timer.h": "c"
+  },
+  "idf.portWin": "COM9",
+  "idf.adapterTargetName": "esp32",
+  "idf.flashType": "UART",
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ]
+}
